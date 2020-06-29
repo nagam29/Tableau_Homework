@@ -20,10 +20,15 @@ There is no data available at this point that can be used to explain why these c
 *Referring to “Top 20 Start Stations and Riders” chart, “Popular Starting Stations” map and “Top 20 Start Stations and Duration” chart*
 
 *Overall, the numbers of riders at the majority of stations were larger in 2019 than in 2020. This pattern was noticeable with more centrally located starting stations.
+
 *One of the centrally located stations, Grove St. PATH station, had more than 4,000 riders per month (May) in 2019, but only about 1,000 riders in 2020.
+
 *A few start stations located near the parks increased the number of riders in 2020.
+
 	* Liberty Light Rail station located near the Liberty State Park had 2.6 times more riders per month (May) in 2020 than 2019.
+
 *Overall, the duration of bicycle riding increased in 2020.
+
 	* In 2019, the maximum duration of riding from starting to stopping per month was less than 40 minutes at Liberty Light Rail station.The maximum duration at the same station presented about 100 minutes. 
 
 * Starting stations that Increased the number of riders and increased the duration in 2020 (Liberty Light Rail, Newport Pkwy, JC Medical Center) seem to be located near the parks (Liberty State Park, Newport Green Park). 
@@ -33,4 +38,5 @@ There is no data available at this point that can be used to explain why these c
 *Referring to “Generations of Riders” chart and “Peak Hours of Riding” chart:*
 
 *Age distributions of riders in 2020 changed at the starting stations located near the parks (Liberty Light Rail and Lincoln Park). In 2019, riders at these stations tended to be those age between 24 and 45. However, in May 2020, these stations included the riders who were age between 45 and 65 and those age between 18 and 22, in addition to those between 24-45.
+
 *The times within a day that people were riding were afternoon, particularly between 3 PM to 6 PM in these parks. There was no such pattern in 2019 (except at 2PM at Liberty Light Rail station).
