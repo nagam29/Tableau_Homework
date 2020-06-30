@@ -5,6 +5,9 @@
 ## Goal
 This study compared bicycle riding patters and riders’ characteristics in May, 2019 and those in May 2020.
 
+## Method
+JC-201905-citibike-tripdata and JC-202005-citibike-tripdata were downloaded from  the Citi Bike Data webpage. These data were joined on Start Station IDs because I planned to perform  the start-station-level analysis -- the riding patterns and riders' characteristics at each station were compared. 
+
 ## Summary 
 
 Overall, the start stations of the bicycle riders seem to be concentrated in the central city areas (Zip code areas, 07302 and 07303). The number of bicycle riders tend to be larger in these areas than the areas surrounding them. This pattern appears to be consistent across different years. (see Overall Starting Stations and their Zip Codes map)
