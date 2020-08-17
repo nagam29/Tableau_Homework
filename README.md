@@ -20,7 +20,7 @@ There is no data available at this point that can be used to explain why these c
 
 **Increased Riders, Increased Duration**
 
-*Referring to “Top 20 Start Stations and Riders” chart, “Popular Starting Stations” map and “Top 20 Start Stations and Duration” chart*
+*Referring to [“Top 20 Start Stations and Riders” chart](https://public.tableau.com/profile/mika.nagamine#!/vizhome/Tauleau_homework_Workbook_15932499393900/Top20_Riders), [“Popular Starting Stations” map](https://public.tableau.com/profile/mika.nagamine#!/vizhome/Tauleau_homework_Workbook_15932499393900/Popular_Starting_Stations) and [“Top 20 Start Stations and Duration” chart](https://public.tableau.com/profile/mika.nagamine#!/vizhome/Tauleau_homework_Workbook_15932499393900/Top20_Duration)*
 
 * Overall, the numbers of riders at the majority of stations were larger in 2019 than in 2020. This pattern was noticeable with more centrally located starting stations.
 
@@ -38,7 +38,7 @@ There is no data available at this point that can be used to explain why these c
 
 **Age Groups of Riders and the peak time of riding**
 
-*Referring to “Generations of Riders” chart and “Peak Hours of Riding” chart:*
+*Referring to [“Generations of Riders” chart](https://public.tableau.com/profile/mika.nagamine#!/vizhome/Tauleau_homework_Workbook_15932499393900/Generations) and [“Peak Hours of Riding” chart](https://public.tableau.com/profile/mika.nagamine#!/vizhome/Tauleau_homework_Workbook_15932499393900/Peak_Riding_Hours):*
 
 * Age distributions of riders in 2020 changed at the starting stations located near the parks (Liberty Light Rail and Lincoln Park). In 2019, riders at these stations tended to be those age between 24 and 45 (birth years between 1996 and 1975) . However, in May 2020, these stations included the riders who were age between 45 and 65 (birth years between 1975 and 1955) and those age between 18 and 22 (birth years between 2002 and 2006), in addition to those between 24-45.
 
